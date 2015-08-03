@@ -12,6 +12,8 @@ public class Bird : MonoBehaviour {
     public AudioClip GoalSound;
     public AudioClip DeathSound;
 
+
+
     public Vector3 LookDirection;
     public GameObject Image;
 
